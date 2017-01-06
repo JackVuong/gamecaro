@@ -1,0 +1,9 @@
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csprojResolveAssemblyReference.cache
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.Cache
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+C:\Users\GiaLuan\Desktop\ASS_AI\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.CaroForm.resources
